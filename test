@@ -2,5 +2,6 @@ hellow world
 int main()
 {
 	printf("Hello world");
+	scanf("lalalala");
 	return 0;
 }
